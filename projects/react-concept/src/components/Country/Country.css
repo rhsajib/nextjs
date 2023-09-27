@@ -1,0 +1,12 @@
+.country{
+    background-color: blanchedalmond;
+    border: 3px solid blue;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.country img{
+    width: 150px;
+    height: 80px;
+}

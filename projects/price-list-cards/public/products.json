@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "price": 59,
+      "features": [
+        "5.5-inch Super AMOLED Display",
+        "Dual-Camera System",
+        "64GB Storage",
+        "Fingerprint Sensor",
+        "Fast Charging"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "price": 99,
+      "features": [
+        "15.6-inch Full HD Display",
+        "Intel Core i7 Processor",
+        "16GB RAM",
+        "512GB SSD"
+    
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "price": 19,
+      "features": [
+        "Bluetooth 5.0 Connectivity",
+        "Noise-Canceling Technology",
+        "30-Hour Battery Life",
+        "Comfortable Over-Ear Design",
+        "Built-in Microphone"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch Pro",
+      "price": 19,
+      "features": [
+        "Heart Rate Monitoring",
+        "GPS Tracking",
+        "Waterproof Design",
+        "Activity Tracking",
+        "Smartphone Notifications",
+        "Smartphone Notifications"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gaming Console X",
+      "price": 49,
+      "features": [
+        "4K Ultra HD Graphics",
+        "High-Fidelity Audio",
+        "1TB Storage",
+        "Wireless Controller"
+
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Digital Camera Pro",
+      "price": 79,
+      "features": [
+        "24MP Sensor",
+        "4K Video Recording",
+        "Interchangeable Lenses",
+        "Touchscreen Display",
+        "Wi-Fi Connectivity"
+      ]
+    }
+  ]
+  
